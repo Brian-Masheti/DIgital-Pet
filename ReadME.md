@@ -1,10 +1,5 @@
 # Python OOP Challenge: Digital Pet
 
-## Group Members
-- [Brian Masheti]
-- [Dennis Kipkech]
-- [Debora Jelagat]
-
 ## Description
 This project creates a virtual pet using Python's Object-Oriented Programming. The Pet class in pet.py represents a pet with a name, hunger, energy, and happiness levels. You can feed, play with, or let the pet sleep, and it can learn tricks like "sit" or "roll over." The main.py file tests all features by creating a pet named Buddy and showing how its status changes.
 
